@@ -1,0 +1,52 @@
+*Nieznana komenda-
+
+ADDROOM
+
+-nieliczba*
+
+ADDROOM
+
+209
+
+ADDCLIENT
+
+Dominik Szacilowski
+
+ADDRESERVATION
+
+2019 n 09
+2019 a 02
+
+209 Dominik Szacilowski
+
+ADDRESERVATION
+
+2019 09 09
+
+2019 09 10
+
+210 Dominik Szacilowski
+
+ADDRESERVATION
+
+2019 09 09
+
+2019 09 10
+
+209 Jan Kowalski
+
+ADDRESERVATION
+
+2019 09 09
+
+2019 08 08
+
+209 Dominik Szacilowski
+
+SHOWFREEROOMS
+
+2019 20 20
+
+2019 21 21
+
+EXIT
